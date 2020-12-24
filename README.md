@@ -2,7 +2,7 @@
 
 I'm a Full-Stack Developer with a proven working history.<a href="https://www.linkedin.com/in/felix-li-1b692696/" rel="nofollow">
   <img align="left" alt="Felix Li | Linkedin" width="20px" src="https://raw.githubusercontent.com/DevHabit/DevHabit/master/assets/linkedin.svg" style="max-width:100%;">
-</a><a href="https://stackoverflow.com/users/4215953/ifxli" rel="nofollow"><img align="left" alt="Felix Li | Stackoverflow" width="20px" src="https://raw.githubusercontent.com/DevHabit/DevHabit/master/assets/stackoverflow.svg" style="max-width:100%;">
+</a><a href="https://stackoverflow.com/users/4215953/ifxli" rel="nofollow"><img align="left" alt="Felix Li | Stackoverflow" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/stackoverflow.png" style="max-width:100%;">
 </a>
 
 - 🔭 I’m currently working on
