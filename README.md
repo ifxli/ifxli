@@ -1,4 +1,4 @@
-### Hi there, I'm Felix 👋
+### Hi there 👋
 
 I'm a Full-Stack Developer with a proven working history.
 
